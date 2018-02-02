@@ -1,0 +1,7 @@
+160530
+1.testChina.jsp
+测试get请求发送中文.
+在ChinaServlet中输出
+测试post请求发送中文
+
+2.
